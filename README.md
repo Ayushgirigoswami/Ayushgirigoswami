@@ -1,16 +1,16 @@
-# 👋 Hey there, I'm Ayushgiri Goswami
+# 👋 Hi, I'm Ayushgiri Goswami
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=ML+Engineer+%7C+Full+Stack+Developer;Building+AI-Powered+Solutions;Turning+Data+Into+Insights)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+ML+Engineer;Building+AI-Powered+Web+Applications;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
-  **Information Technology Student | Machine Learning Enthusiast | Open Source Contributor**
+  **IT Student @ VVP Engineering College | ML Enthusiast | Problem Solver**
   
-  📍 Rajkot, Gujarat, India | 🎓 B.E. IT @ VVP Engineering College (2027)
+  📍 Rajkot, Gujarat, India | 🎓 B.E. IT (2027) | 📊 CGPA: 8.39/10.0
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgirigoswami@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushgirigoswami)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushgirigoswami)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgirigoswami15@gmail.com)
   
 </div>
 
@@ -21,35 +21,37 @@
 ```python
 class AyushgiriGoswami:
     def __init__(self):
-        self.username = "Ayushgirigoswami"
-        self.role = "ML Engineer & Full Stack Developer"
         self.location = "Rajkot, Gujarat, India"
-        self.education = "B.E. in Information Technology"
-        self.interests = ["Machine Learning", "AutoML", "Data Science", "AI Solutions"]
+        self.education = "B.E. Information Technology (VVP Engineering College)"
+        self.graduation_year = 2027
+        self.languages = ["English", "Hindi", "Gujarati"]
+        self.focus = ["Full-Stack Development", "Data Science"]
         
-    def current_focus(self):
+    def current_work(self):
         return [
-            "Building production-grade ML applications",
-            "Developing AutoML frameworks",
-            "Contributing to open source projects",
-            "Exploring MLOps and model deployment"
+            "Building Flask-based web applications",
+            "Exploring ML model deployment",
+            "Solving DSA problems",
+            "Contributing to open-source projects"
         ]
     
     def achievements(self):
         return {
-            "amazon_ml_challenge": "Top 2500 Nationwide (2025)",
-            "research_presentation": "3rd Place - Arrhythmia Detection",
-            "production_app": "Hospital Management System (100+ daily users)"
+            "amazon_ml_challenge_2025": "Top 2500 Nationwide",
+            "research_paper": "3rd Place - Arrhythmia Detection using MIT-BIH Dataset"
         }
 ```
 
 ---
 
-## 🏆 Highlights
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-🎯 **Top 2500** in Amazon ML Challenge 2025 | 🥉 **3rd Place** Research Presentation | 💼 **Production App** Serving 100+ Daily Users
+| 🏅 Achievement | 📝 Description |
+|---------------|----------------|
+| **Top 2500 Nationwide** | Amazon Machine Learning Challenge 2025 |
+| **3rd Place** | College Research Paper: 'Arrhythmia Heartbeat Detection using MIT-BIH Dataset' |
 
 </div>
 
@@ -65,96 +67,92 @@ class AyushgiriGoswami:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Machine Learning & Data Science
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### Core Competencies
+`Data Structures & Algorithms` • `Full-Stack Web Development` • `Machine Learning Fundamentals` • `Database Management`
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🤖 [Lumina AutoML](https://github.com/Ayushgirigoswami/Lumina-AutoML)
-**Automated Machine Learning CLI Framework**
-- Zero-code ML pipeline with automated preprocessing, training & evaluation
-- Implemented multiple regression algorithms with comparative analysis
-- Interactive CLI with real-time progress tracking using Rich library
-- **Impact:** Reduced ML development time by 70%
+### 💰 [Expense Tracker Web Application](https://github.com/Ayushgirigoswami/expense-tracker)
+**Secure Personal Finance Management System**
 
-```bash
-# Quick Start
-pip install lumina-automl
-lumina train --data your_dataset.csv --target target_column
-```
+- Built with **Flask** and **SQLAlchemy** for robust backend architecture
+- Implemented user authentication and secure CRUD operations
+- Features expense categorization, monthly budget tracking, and spending alerts
+- Real-time notifications when users approach or exceed budget limits
 
-### 🏥 Hospital Management System
-**Full-Stack Production Application**
-- Comprehensive clinic management system built with Python & Tkinter
-- Serving 100+ daily patients in active production
-- 12 core modules: patient management, inventory, billing, scheduling
-- Offline-first architecture with SQLite for data privacy
-
-### 📊 Walmart Supply-Demand Forecasting
-**Predictive Analytics Solution**
-- Analyzed 400,000+ records for demand forecasting
-- Feature engineering & regression modeling for sales prediction
-- Visual dashboards revealing seasonal and promotional insights
+**Tech:** `Flask` `SQLAlchemy` `Bootstrap` `SQLite`
 
 ---
 
-## 📈 GitHub Stats
+### 📊 [Employee Attrition Risk Prediction System](https://github.com/Ayushgirigoswami/attrition-predictor)
+**ML-Powered HR Analytics Tool**
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushgirigoswami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgirigoswami&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushgirigoswami&theme=tokyonight&hide_border=true)
+- Flask-based web application with **Random Forest** model integration
+- Predicts employee attrition risk with probability scores
+- Displays key influencing factors for actionable insights
+- Clean data preprocessing pipeline with efficient model deployment
 
-</div>
+**Tech:** `Flask` `scikit-learn` `Pandas` `NumPy` `Bootstrap`
+
+
+
+## 📚 Education & Coursework
+
+**Bachelor of Engineering (B.E.) in Information Technology**  
+VVP Engineering College, Rajkot, Gujarat | **2023 - 2027** | **CGPA: 8.39/10.0**
+
+**Relevant Coursework:**
+- Machine Learning
+- Data Structures & Algorithms
+- Database Management System
+- Web Development
+- Artificial Intelligence
+- Data Science
+- Data Warehouse & Mining
 
 ---
 
-## 🎯 What I'm Currently Working On
+## 🎯 What I'm Currently Focusing On
 
-- 🔭 Developing advanced AutoML features for Lumina
-- 🌱 Learning MLOps and model deployment strategies
-- 👯 Looking to collaborate on open source ML projects
-- 💬 Ask me about Machine Learning, Python, or AutoML systems
-- 📫 Reach me at: **ayushgirigoswami@gmail.com**
-
----
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔭 Building production-ready Flask applications with ML integration
+- 🌱 Deepening knowledge in MLOps and model deployment
+- 👯 Looking to collaborate on full-stack and data science projects
+- 💬 Ask me about **Python**, **Flask**, **Machine Learning**, or **DSA**
+- 📫 Reach me at: **ayushgirigoswami15@gmail.com**
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm actively seeking **internship and full-time opportunities** in:
-- 🎯 Machine Learning Engineering
+I'm actively seeking **internship opportunities** in:
+- 💻 Full-Stack Development
+- 🤖 Machine Learning Engineering
 - 📊 Data Science
-- 💻 Software Development
-- 🤖 AI-Driven Solutions
+- 🔧 Software Development
 
 <div align="center">
   
-  **Open to collaborations, freelance projects, and exciting opportunities!**
+  **Open to collaborations and exciting learning opportunities!**
   
-  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgirigoswami@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushgirigoswami)
+  [![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgirigoswami15@gmail.com)
+  [![GitHub](https://img.shields.io/badge/Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushgirigoswami)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Ayushgirigoswami&color=blueviolet&style=for-the-badge)
 
@@ -164,11 +162,9 @@ I'm actively seeking **internship and full-time opportunities** in:
 
 <div align="center">
   
-  ### ⚡ Fun Fact
+  ### 💡 Quote I Live By
   
-  *I turned a hospital's entire paper-based system into a digital solution that now serves 100+ patients daily!*
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
+  *"The only way to do great work is to love what you do." – Steve Jobs*
   
 </div>
 
